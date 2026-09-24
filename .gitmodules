@@ -34,9 +34,6 @@
 [submodule "macchanger"]
 	path = macchanger
 	url = https://github.com/acrogenesis/macchanger
-[submodule "wifiphisher"]
-	path = wifiphisher
-	url = https://github.com/wifiphisher/wifiphisher
 [submodule "hcxtools"]
 	path = hcxtools
 	url = https://github.com/ZerBea/hcxtools
@@ -82,3 +79,6 @@
 [submodule "wifite2"]
 	path = wifite2
 	url = https://github.com/derv82/wifite2
+[submodule "wifiphisher"]
+	path = wifiphisher
+	url = https://github.com/wifiphisher/wifiphisher
