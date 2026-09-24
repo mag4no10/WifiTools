@@ -37,9 +37,6 @@
 [submodule "hcxtools"]
 	path = hcxtools
 	url = https://github.com/ZerBea/hcxtools
-[submodule "air-hammer"]
-	path = air-hammer
-	url = https://github.com/Wh1t3Rh1n0/air-hammer
 [submodule "berate_ap"]
 	path = berate_ap
 	url = https://github.com/sensepost/berate_ap
@@ -67,9 +64,6 @@
 [submodule "eaphammer"]
 	path = eaphammer
 	url = https://github.com/s0lst1c3/eaphammer
-[submodule "eapeak"]
-	path = eapeak
-	url = https://github.com/rsmusllp/eapeak
 [submodule "Pyrit"]
 	path = Pyrit
 	url = https://github.com/JPaulMora/Pyrit
@@ -82,3 +76,6 @@
 [submodule "wifiphisher"]
 	path = wifiphisher
 	url = https://github.com/wifiphisher/wifiphisher
+[submodule "eapeak"]
+	path = eapeak
+	url = https://github.com/rsmusllp/eapeak
