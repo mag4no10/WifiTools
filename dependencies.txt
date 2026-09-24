@@ -1,0 +1,1 @@
+python3 make gcc libnl-3-dev libnl-genl-3-dev pkg-config libssl-dev net-tools git sysfsutils python3-venv sqlitebrowser libcurl4-openssl-dev zlib1g-dev wpasupplicant unzip hostapd wireless-tools dnsmasq iw wget pixiewps hashcat dhcp-client unzip build-essential libpcap-dev tcpdump wireshark

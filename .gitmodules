@@ -1,0 +1,84 @@
+[submodule "OneShot"]
+	path = OneShot
+	url = https://github.com/fulvius31/OneShot
+[submodule "aircrack-ng"]
+	path = aircrack-ng
+	url = https://github.com/aircrack-ng/aircrack-ng
+[submodule "reaver-wps-fork-t6x"]
+	path = reaver-wps-fork-t6x
+	url = https://github.com/t6x/reaver-wps-fork-t6x
+[submodule "WPS-PIN"]
+	path = WPS-PIN
+	url = https://github.com/linkp2p/WPS-PIN
+[submodule "Default-wps-pin"]
+	path = Default-wps-pin
+	url = https://github.com/eye9poob/Default-wps-pin
+[submodule "nmk"]
+	path = nmk
+	url = https://github.com/kcdtv/nmk
+[submodule "mdk4"]
+	path = mdk4
+	url = https://github.com/aircrack-ng/mdk4
+[submodule "wacker"]
+	path = wacker
+	url = https://github.com/blunderbuss-wctf/wacker/
+[submodule "dragon-drain-wpa3-airgeddon-plugin"]
+	path = dragon-drain-wpa3-airgeddon-plugin
+	url = https://github.com/Janek79ax/dragon-drain-wpa3-airgeddon-plugin
+[submodule "ettercap"]
+	path = ettercap
+	url = https://github.com/Ettercap/ettercap
+[submodule "pcapfix"]
+	path = pcapfix
+	url = https://github.com/Rup0rt/pcapfix
+[submodule "macchanger"]
+	path = macchanger
+	url = https://github.com/acrogenesis/macchanger
+[submodule "wifiphisher"]
+	path = wifiphisher
+	url = https://github.com/wifiphisher/wifiphisher
+[submodule "hcxtools"]
+	path = hcxtools
+	url = https://github.com/ZerBea/hcxtools
+[submodule "air-hammer"]
+	path = air-hammer
+	url = https://github.com/Wh1t3Rh1n0/air-hammer
+[submodule "berate_ap"]
+	path = berate_ap
+	url = https://github.com/sensepost/berate_ap
+[submodule "wpa_sycophant"]
+	path = wpa_sycophant
+	url = https://github.com/sensepost/wpa_sycophant
+[submodule "EAP_buster"]
+	path = EAP_buster
+	url = https://github.com/blackarrowsec/EAP_buster
+[submodule "hostapd-mana"]
+	path = hostapd-mana
+	url = https://github.com/sensepost/hostapd-mana
+[submodule "airgeddon"]
+	path = airgeddon
+	url = https://github.com/v1s1t0r1sh3r3/airgeddon
+[submodule "wifi_db"]
+	path = wifi_db
+	url = https://github.com/r4ulcl/wifi_db
+[submodule "krackattacks-scripts"]
+	path = krackattacks-scripts
+	url = https://github.com/vanhoefm/krackattacks-scripts
+[submodule "fragattacks"]
+	path = fragattacks
+	url = https://github.com/vanhoefm/fragattacks
+[submodule "eaphammer"]
+	path = eaphammer
+	url = https://github.com/s0lst1c3/eaphammer
+[submodule "eapeak"]
+	path = eapeak
+	url = https://github.com/rsmusllp/eapeak
+[submodule "Pyrit"]
+	path = Pyrit
+	url = https://github.com/JPaulMora/Pyrit
+[submodule "bully"]
+	path = bully
+	url = https://github.com/aanarchyy/bully
+[submodule "wifite2"]
+	path = wifite2
+	url = https://github.com/derv82/wifite2
